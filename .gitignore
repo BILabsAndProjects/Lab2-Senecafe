@@ -1,0 +1,30 @@
+# Archivos temporales de Excel
+~$*.xlsx
+
+# Archivos de respaldo de Word, Excel, etc.
+~$*.docx
+~$*.pptx
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Configuración de VSCode
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
